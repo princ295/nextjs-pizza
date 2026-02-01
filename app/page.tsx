@@ -1,10 +1,12 @@
-import { Button } from "@/components/ui/button";
+import { Header } from "@/shared/components/shared/header";
+import { Button } from "@/shared/components/ui/button";
+
 
 export default function Page() {
   return (
     <>
-      <h1>Nextjs-Pizza</h1>
-      <Button>boom</Button>
+     <Header />
+    
     </>
   )
 }

@@ -5,7 +5,7 @@ import { ProfileButton } from "./profile-button";
 import { Button } from "../ui/button";
 import { ShoppingCart } from "lucide-react";
 import { Container } from "./container";
-import { cn } from "@/lib/utils";
+import { cn } from "@/shared/lib/utils";
 
 
 interface Props {
